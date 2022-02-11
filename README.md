@@ -1,2 +1,4 @@
 # Statistical-Inference-Functions
-This includes all the functions, I wrote and used during my 1st Year of Undergraduate Statistics Major Course. This includes mainly Hypothesis Testing Functions.
+The files which are intuitively named after the parts of Statistical Inference they help in are present in this repository. I wrote these functions while learning Hypothesis Testing, Confidence Intervals and Simple Linear Regression during the 1st Year of my Undergraduate Statistics Major Course.
+
+The functions in each of the file are quite lucidly written and provides well formatted structured output given the input of data. For beginners it can be very suitable to use these functions for the informative clear English Output they produce. The function name also stands for the tests or tasks they do. So, for a beginner who has just started out with the topic of Statistical Inference may find it quite helpful to go through the functions and files sequentially.
